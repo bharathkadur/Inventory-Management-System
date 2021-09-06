@@ -1,0 +1,27 @@
+{
+    "1": {
+        "name": "jam",
+        "quantity": 30,
+        "price": 20
+    },
+    "2": {
+        "name": "Bread",
+        "quantity": 50,
+        "price": 40
+    },
+    "3": {
+        "name": "Butter",
+        "quantity": 10,
+        "price": 100
+    },
+    "4": {
+        "name": "Cheese",
+        "quantity": 50,
+        "price": 50
+    },
+    "5": {
+        "name": "peanut butter",
+        "quantity": 40,
+        "price": 20
+    }
+}

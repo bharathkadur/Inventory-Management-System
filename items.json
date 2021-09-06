@@ -1,0 +1,102 @@
+{
+    "1": {
+        "name": "jam",
+        "quantity": 30,
+        "price": 20
+    },
+    "2": {
+        "name": "Bread",
+        "quantity": 50,
+        "price": 40
+    },
+    "3": {
+        "name": "Butter",
+        "quantity": 10,
+        "price": 100
+    },
+    "4": {
+        "name": "Cheese",
+        "quantity": 50,
+        "price": 50
+    },
+    "5": {
+        "name": "peanut butter",
+        "quantity": 40,
+        "price": 20
+    },
+    "6": {
+        "name": "Chiken",
+        "quantity": 40,
+        "price": 50
+    },
+    "7": {
+        "name": "EGG",
+        "quantity": 50,
+        "price": 70
+    },
+    "8": {
+        "name": "Wheat Flour",
+        "quantity": 20,
+        "price": 100
+    },
+    "9": {
+        "name": "Fish",
+        "quantity": 70,
+        "price": 10
+    },
+    "10": {
+        "name": "Cello Blue ink pen",
+        "quantity": 6000,
+        "price": 5
+    },
+    "11": {
+        "name": "Apsara Pencil",
+        "quantity": 500,
+        "price": 40
+    },
+    "12": {
+        "name": "Natraja Pencil",
+        "quantity": 800,
+        "price": 60
+    },
+    "13": {
+        "name": "Dog Biscuit",
+        "quantity": 40,
+        "price": 20
+    },
+    "14": {
+        "name": "Motorola Mobile E7",
+        "quantity": 1,
+        "price": 10000
+    },
+    "15": {
+        "name": "Oppo K3",
+        "quantity": 50,
+        "price": 50000
+    },
+    "16": {
+        "name": "Dairy Milk",
+        "quantity": 100,
+        "price": 10
+    },
+    "17": {
+        "name": "Dairy Milk Silk",
+        "quantity": 500,
+        "price": 100
+    },
+    "18": {
+        "name": "Hide and seek Coffe Flavour",
+        "quantity": 50,
+        "price": 40
+    },
+    "19": {
+        "name": "Cheetos",
+        "quantity": 50,
+        "price": 500
+    },
+    "20": {
+        "name": "Mentos Mix Flavour",
+        "quantity": 50,
+        "price": 10
+    }
+}
